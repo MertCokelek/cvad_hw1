@@ -1,0 +1,5 @@
+ID: 4
+Epochs: 10
+BatchSize: 64
+Optim:
+  LR: 0.001

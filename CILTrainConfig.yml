@@ -1,0 +1,7 @@
+ID: 10
+Epochs: 30
+TestEpoch: 30
+BatchSize: 64
+Loss: "MAE"
+Optim:
+  LR: 0.0002
